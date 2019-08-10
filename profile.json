@@ -1,0 +1,126 @@
+{
+  "site-design": "minimal",
+  "name": {
+    "full": "Mihir Wadekar",
+    "first": "Mihir",
+    "last": "Wadekar"
+  },
+  "email" : "mpwadekar@ucdavis.edu",
+  "links": {
+    "github": "https://github.com/mw2000",
+    "linkedin": "https://www.linkedin.com/in/mihir-wadekar-6bb691164/"
+  },
+  "short-des": "CE Major @ UC Davis 2022, Undergrad Researcher and PlastiCoin Co-Founder",
+  "about-me": "I am a sophomore pursuing Computer Engineering at University of California, Davis. I'm currently an undergraduate researcher at ExpoLAB UC Davis, researching the applications of Blockchain in sustainability and waste management under Prof. Mohammad Sadoghi. This research led me to co-found PlastiCoin, a blockchain-based incentivized way of recycling plastic. In addition to this, I also work as a finance associate for SacHacks, contacting industry professionals to raise money for the first intercollegiate hackathon in the greater Sacramento area.",
+  "keywords": ["Mihir Wadekar", "UCD", "UC Davis", "CE Major", "PlastiCoin", "Undergrad Research"],
+  "cv": {
+    "Work-Experience": [
+      {
+        "title": "Finance Associate @ SacHacks",
+        "start-date": "2019",
+        "end-date": "",
+        "des": "Contacting industry professionals for company sponsorships to raise money for SacHacks"
+      },
+      {
+        "title": "Co-Founder @ PlastiCoin",
+        "start-date": "2018",
+        "end-date": "",
+        "des": "Building a startup to tackle the problem of waste plastic by a incentivizing plastic recycling through Blockchain"
+      }
+    ],
+    "Research-Experience": [
+      {
+        "title": "Blockchain Applications in Sustainability and Waste Management",
+        "start-date": "2019",
+        "end-date": "",
+        "des": "Researching real-world applications of blockchain in sustainability and waste management under Prof. Mohammed Sadoghi at Expolab, UC Davis."
+      }
+    ],
+    "Project-Experience": [
+      {
+        "title": "Injecto",
+        "start-date": "2018",
+        "end-date": "2018",
+        "des": "Built on the Nebulas Blockchain, this is a simple DApp which helps to keep record of your vaccination history."
+      },
+      {
+        "title": "PulsarCoin",
+        "start-date": "2019",
+        "end-date": "",
+        "des": "A basic javascript implementation of a blockchain."
+      },
+      {
+        "title": "Data Stuctures in Rust and Go",
+        "start-date": "2019",
+        "end-date": "",
+        "des": "Implementing common data structures in safe, modern Rust and Go and writing a book about the same."
+      }
+    ],
+    "Skills": [
+      {
+        "title": "Programming Languages",
+        "list": ["C", "C++", "Python", "Javascript"]
+      },
+      {
+        "title": "OS",
+        "list": ["Unix", "MacOS", "Linux"]
+      },
+      {
+        "title": "Tools",
+        "list": ["ViM", "LaTeX", "Git", "Googletest"]
+      },
+      {
+        "title": "Frameworks",
+        "list": ["Ionic", "AngularJS", "React Native", "NodeJS", "Express"]
+      }
+    ],
+    "Education": [
+      {
+        "title": "The Bishop's School, Camp, Pune",
+        "start-date": "2004",
+        "end-date": "2016",
+        "des": "Elementary school through 10th grade"
+      },
+      {
+        "title": "Laxmanrao Apte Jr. Clg, Pune",
+        "start-date": "2016",
+        "end-date": "2018",
+        "des": "11th and 12th grade"
+      },
+      {
+        "title": "University of California, Davis",
+        "start-date": "2018",
+        "end-date": "",
+        "des": "BS, Computer Engineering"
+      }
+    ],
+    "Awards-and-Other-Achievements": [
+      {
+        "title": "UC Davis College of Enginereing Dean's List",
+        "list": ["WQ2019"]
+      },
+      {
+        "title": "UC GPA",
+        "list": ["3.51"]
+      },
+      {
+        "title": "SAT Score",
+        "list": ["1450"]
+      },
+      {
+        "title": "SAT Subject Tests",
+        "list": ["Math - 780", "Physics - 720"]
+      },
+      {
+        "title": "ICSE board examination",
+        "list": ["93%"]
+      },
+      {
+        "title": "HSC board examination",
+        "list": ["80%"]
+      }
+    ],
+    "Languages": ["English", "Hindi", "Marathi"]
+  }
+
+}
