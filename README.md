@@ -8,8 +8,8 @@ After hearing positive feedback on my own personal website, I wanted the custom 
 
 # Usage
 - First, you would need to create your own profile.json file. I have provided a sample profile.json for you, please edit it and fill in your own information. (This will be easier in the future when we make a CLI)
-- Second, create your own Avatar from https://avatarmaker.com/ and download the avatar in png format. Rename the file to Avatar.png.
-- Third, Move your profile.json, Avatar.png and gen.py files to the directory where you would like your website to be in.
+- Second, create your own Avatar from https://avatarmaker.com/ and download the avatar in jpg format.
+- Third, Move your profile.json, Avatar.jpg and gen.py files to the directory where you would like your website to be in.
 - Enter the command ``` python3 gen.py``` and voila, you have your own static website!
 
 # Contributors
